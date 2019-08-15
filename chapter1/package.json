@@ -1,0 +1,24 @@
+{
+  "name": "chapter1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ganache-cli": "^6.6.0",
+    "web3": "^1.0.0-beta.37"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shannonjin/ethereum_voting_dapp.git"
+  },
+  "author": "Shannon Jin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shannonjin/ethereum_voting_dapp/issues"
+  },
+  "homepage": "https://github.com/shannonjin/ethereum_voting_dapp#readme"
+}
